@@ -74,7 +74,7 @@ Unit test will fail for the current code since it won't give the desired result.
 <img width="1042" alt="modified_code" src="https://github.com/cobsha/hamon-application/assets/71638921/a3f5bde6-e465-4a83-88ae-52632cb28b83">
 
 
-But The updated code will passed since it give the desired result for the given values in the test cases.
+But The updated code will be passed since it give the desired result for the given values in the test cases.
 
 ### Summary
 
