@@ -59,7 +59,7 @@ when we add if block into this, it won't go through all charater or elements.
 
 ### Unit Test Cases
 
-I have added unit test code for current code and my updated one.
+I have added unit test code for current code and my updated one using unittest module in python.
 It will check 3 test cases for now, we can add more if want.
 
 In the first case it will check for normal string, then for special characters and finally for a list of values.
