@@ -26,7 +26,7 @@ This function accepts string or list as an input and give the count of character
 #### Example: - 
 When you pass a string **Mohammed Shafi** to this function, each character in the string will be iterated using for loop, each time this charcter will be stored in i, Then it will check this character is already in **r** dictionary as a key using if condition, if it is found in r dictionary, corresponding value in the dictionary will be added to 1. in our case (Mohammed Shafi), in first iteration it won't find it, so, else block will be executed, it will assign value 0 for the corresponding character in our dictionary.
 in the next iteration it will calculate o, it will be also get value 0.
-then when it reaches to lowercase m, it will again treated as 0, since variables in python is case sensitive, but in the very next iteration, if block will be executed, instead of else, because we have already "m" in our dictionary, it will add 1 to the exting value 0, m value will be 0 in dictionary r.
+then when it reaches to lowercase m, it will again treated as 0, since variables in python is case sensitive, but in the very next iteration, if block will be executed, instead of else, because we have already "m" in our dictionary, it will add 1 to the exting value 0, m value will be 1 in dictionary r.
 this iteration will be last until all the characters are finished.
 this is also the case for list as input.
 
