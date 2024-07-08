@@ -66,10 +66,12 @@ In the first case it will check for normal string, then for special characters a
 
 #### Test Case Result
 
+<img width="1093" alt="current_code" src="https://github.com/cobsha/hamon-application/assets/71638921/307cac3c-4ff7-4d6f-aaa6-49eefcbab89a">
 
 
-I will fail for the current code since it won't give the desired result.
+Unit test will fail for the current code since it won't give the desired result.
 
+<img width="1042" alt="modified_code" src="https://github.com/cobsha/hamon-application/assets/71638921/a3f5bde6-e465-4a83-88ae-52632cb28b83">
 
 
 But The updated code will passed since it give the desired result for the given values in the test cases.
